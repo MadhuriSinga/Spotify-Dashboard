@@ -9,7 +9,7 @@ This project is a **Spotify Dashboard** created in Power BI to analyze and visua
 
 Below is a preview of the dashboard:
 
-![Dashboard Preview](<img width="1320" height="742" alt="image" src="https://github.com/user-attachments/assets/5cbebc7c-7dd6-4919-8183-cfb80d778816" />)
+<img width="1320" height="742" alt="Dashboard" src="https://github.com/user-attachments/assets/f47842ee-9897-4193-a104-69d9d9a63b91" />
 
 ---
 
