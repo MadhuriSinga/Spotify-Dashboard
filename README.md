@@ -83,6 +83,3 @@ The Spotify Dashboard offers a comprehensive overview of streaming trends, artis
 3. The significant disparity between the most streamed tracks and average streams, underlining the importance of standout hits in driving engagement.
 4. The preferences for high-energy and danceable tracks, which align with user demand for lively and dynamic music experiences.
 5. A detailed breakdown of track releases over time, highlighting industry patterns and production peaks.
-
-
-<img width="1320" height="742" alt="image" src="https://github.com/user-attachments/assets/0b38c813-07a3-4e9c-89ee-b00535d90519" />
